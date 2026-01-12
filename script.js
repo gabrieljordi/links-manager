@@ -11,9 +11,9 @@ function togglemode() {
   }
 
   if (html.classList.contains("light")) {
-    img.setAttribute("alt", "Foto de Perfil de Gabriel Jordi Clara")
+    img.setAttribute("alt", "Gabriel Jordi Light Profile Photo")
   } else {
-    img.setAttribute("alt", "Foto de Perfil de Gabriel Jordi")
+    img.setAttribute("alt", "Gabriel Jordi Profile Photo")
   }
 }
 
@@ -22,10 +22,8 @@ let clicks = 0
 document.getElementById("clickArea").onclick = () => {
   clicks++
 
-  // A cada clique, verifica se o número de cliques chegou a 5
   if (clicks === 7) {
     document.getElementById("secretMessage").style.display = "block"
-    document.getElementById("click").style.pointerEvents = "none" // Desabilita o botão após 5 cliques
-    console.log("Easter egg desbloqueado! 🎉")
+    document.getElementById("click").style.pointerEvents = "none"
   }
 }

@@ -1,8 +1,6 @@
 <h1 align="center"> Links Manager </h1>
 
-<p align="center">
-Gerenciador de links, gratuito, completamente personalizável.
-</p>
+<p align="center"> Fully Customizable Link Manager </p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -11,22 +9,22 @@ Gerenciador de links, gratuito, completamente personalizável.
 <br>
 
 <p align="center">
-  <img alt="Projeto Links Manager" src=".github/preview.jpg" width="100%">
+  <img alt="Links Manager" src=".github/preview.jpg" width="100%">
 </p>
 
-## Tecnologias
+## Technologies
 
-Esse projeto foi desenvolvido com as tecnologias:
+This project was developed using the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 
-## Projeto
+## Project
 
-O gerenciador de links é um projeto que possibilita acessar vários links através de uma única página.
+Links Manager is a project that allows you to access multiple links through a single page.
 
 ---
 
-Desenvolvido por: Gabriel Jordi
-<br>Dezembro de 2025
+Developed by Gabriel Jordi
+<br>December 2025
